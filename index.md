@@ -6,5 +6,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![Who knew Satan could be so sexy] https://78.media.tumblr.com/879188c597e108b059d2739c93f37578/tumblr_p96mgbZVq81xp1dp9o2_500.jpg
+![Who knew Satan could be so sexy](https://78.media.tumblr.com/879188c597e108b059d2739c93f37578/tumblr_p96mgbZVq81xp1dp9o2_500.jpg)
 
