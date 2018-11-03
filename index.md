@@ -1,9 +1,10 @@
 
 
 ### Dante the Bear
-
-<iframe src="https://player.vimeo.com/video/298786326" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
+<center>
+    <iframe src="https://player.vimeo.com/video/298786326" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+    </iframe>
+</center>
 <p>
 <p>
 <p>
