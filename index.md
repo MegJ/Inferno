@@ -4,11 +4,13 @@
 
 <iframe src="https://player.vimeo.com/video/298786326" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 </iframe>
-
+<p>
+<p>
+<p>
 <div style = "background-color: white; color:black;">
     <center>The Creators
         <div>
-            <img src ="https://github.com/MegJ/Inferno/blob/master/Images/DinoSquad.jpg?raw=true" style = "width:200px;">
+            <img src ="https://github.com/MegJ/Inferno/blob/master/Images/DinoSquad.jpg?raw=true" style = "width:300px;">
         </div>
     </center>
     <div style = "margin-left:30px; ">
