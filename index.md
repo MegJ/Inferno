@@ -15,9 +15,7 @@
         </div>
     </center>
     <div style = "margin-left:30px; ">
-        Sophie Zheng and Megan Rochlin are Sophemores at Cornell University where they study computer science.  After rooming together in Donlon 325, they co-created 325 Productions.
-    </div>  
+        Sophie Zheng and Megan Rochlin are Sophemores at Cornell University where they study computer science.  After rooming together in Donlon 325, they co-created 325 Productions. 
 <p>
-</div>
 
 
