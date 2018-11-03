@@ -1,20 +1,18 @@
 
 
-### The Game
+### Dante the Bear
 
-![Who knew Satan could be so sexy](https://github.com/MegJ/Inferno/blob/master/Images/satan.png?raw=true)
+<iframe src="https://player.vimeo.com/video/298786326" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
 
-<div style = "background-color: white; color:black">
-The Creators
-    <p>
-    <div style = "align:left">
-      <img src ="https://github.com/MegJ/Inferno/blob/master/Images/sophie.png?raw=true" style = "width:75px; float:left">
-    </div>
-    <div style = "margin-left:90px">
-        Sophie Zheng is a sophemore at Cornell University.  Apart from being a huge nerd, she enjoys drawing, painting, and being a Weeb.  
-        <p>
-        <p>
-        <p>
+<div style = "background-color: white; color:black;">
+    <center>The Creators
+        <div>
+            <img src ="https://github.com/MegJ/Inferno/blob/master/Images/DinoSquad.jpg?raw=true" style = "width:200px;">
+        </div>
+    </center>
+    <div style = "margin-left:30px; ">
+        Sophie Zheng and Megan Rochlin are Sophemores at Cornell University where they study computer science.  After rooming together in Donlon 325, they co-created 325 Productions.
     </div>  
 <p>
 </div>
